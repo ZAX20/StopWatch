@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(51, 51, 51);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stopWatch{
+    color: rgb(53, 140, 180);
+    font-size: 200px;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    cursor: pointer;
+}
+
+button{
+    margin: 10px;
+    color: rgb(73, 75, 77);
+    padding: 5px;
+    cursor: pointer;
+    font-style: oblique
+}
